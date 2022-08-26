@@ -6,6 +6,8 @@ public class Hello {
 		// TODO Auto-generated method stub
 		
 		System.out.println("My name is Jonny");
+		System.out.println("My major is computer science");
+		
 	}
 
 }
